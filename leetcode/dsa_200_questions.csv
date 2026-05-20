@@ -1,0 +1,201 @@
+Number,Topic,Question,Difficulty,Solved
+1,Arrays & Hashing,Two Sum,Easy,No
+2,Arrays & Hashing,Contains Duplicate,Easy,No
+3,Arrays & Hashing,Valid Anagram,Easy,No
+4,Arrays & Hashing,Group Anagrams,Medium,No
+5,Arrays & Hashing,Top K Frequent Elements,Medium,No
+6,Arrays & Hashing,Product of Array Except Self,Medium,No
+7,Arrays & Hashing,Valid Sudoku,Medium,No
+8,Arrays & Hashing,Longest Consecutive Sequence,Medium,No
+9,Arrays & Hashing,Subarray Sum Equals K,Medium,No
+10,Arrays & Hashing,Find All Duplicates in an Array,Medium,No
+11,Arrays & Hashing,Majority Element,Easy,No
+12,Arrays & Hashing,Sort Colors,Medium,No
+13,Arrays & Hashing,Pascal's Triangle,Easy,No
+14,Two Pointers,Valid Palindrome,Easy,No
+15,Two Pointers,Two Sum II - Input Array Is Sorted,Medium,No
+16,Two Pointers,3Sum,Medium,No
+17,Two Pointers,Container With Most Water,Medium,No
+18,Two Pointers,Trapping Rain Water,Hard,No
+19,Two Pointers,Remove Duplicates from Sorted Array,Easy,No
+20,Two Pointers,Move Zeroes,Easy,No
+21,Two Pointers,Squares of a Sorted Array,Easy,No
+22,Two Pointers,4Sum,Medium,No
+23,Two Pointers,3Sum Closest,Medium,No
+24,Two Pointers,Boats to Save People,Medium,No
+25,Two Pointers,Remove Nth Node From End of List,Medium,No
+26,Two Pointers,Minimum Size Subarray Sum,Medium,No
+27,Sliding Window,Best Time to Buy and Sell Stock,Easy,No
+28,Sliding Window,Longest Substring Without Repeating Characters,Medium,No
+29,Sliding Window,Longest Repeating Character Replacement,Medium,No
+30,Sliding Window,Permutation in String,Medium,No
+31,Sliding Window,Minimum Window Substring,Hard,No
+32,Sliding Window,Sliding Window Maximum,Hard,No
+33,Sliding Window,Find All Anagrams in a String,Medium,No
+34,Sliding Window,Max Consecutive Ones III,Medium,No
+35,Sliding Window,Fruit Into Baskets,Medium,No
+36,Sliding Window,Longest Subarray of 1s After Deleting One Element,Medium,No
+37,Sliding Window,Count Number of Nice Subarrays,Medium,No
+38,Sliding Window,Number of Subarrays with Bounded Maximum,Medium,No
+39,Sliding Window,Minimum Window Subsequence,Hard,No
+40,Stack,Valid Parentheses,Easy,No
+41,Stack,Min Stack,Medium,No
+42,Stack,Evaluate Reverse Polish Notation,Medium,No
+43,Stack,Generate Parentheses,Medium,No
+44,Stack,Daily Temperatures,Medium,No
+45,Stack,Car Fleet,Medium,No
+46,Stack,Largest Rectangle in Histogram,Hard,No
+47,Stack,Basic Calculator II,Medium,No
+48,Stack,Decode String,Medium,No
+49,Stack,Remove All Adjacent Duplicates in String,Easy,No
+50,Stack,Asteroid Collision,Medium,No
+51,Stack,Next Greater Element I,Easy,No
+52,Stack,Simplify Path,Medium,No
+53,Binary Search,Binary Search,Easy,No
+54,Binary Search,Search a 2D Matrix,Medium,No
+55,Binary Search,Koko Eating Bananas,Medium,No
+56,Binary Search,Find Minimum in Rotated Sorted Array,Medium,No
+57,Binary Search,Search in Rotated Sorted Array,Medium,No
+58,Binary Search,Time Based Key-Value Store,Medium,No
+59,Binary Search,Median of Two Sorted Arrays,Hard,No
+60,Binary Search,First Bad Version,Easy,No
+61,Binary Search,Find Peak Element,Medium,No
+62,Binary Search,Count Negative Numbers in a Sorted Matrix,Easy,No
+63,Binary Search,Sqrt(x),Easy,No
+64,Binary Search,Search Insert Position,Easy,No
+65,Binary Search,Find Right Interval,Medium,No
+66,Linked List,Reverse Linked List,Easy,No
+67,Linked List,Merge Two Sorted Lists,Easy,No
+68,Linked List,Reorder List,Medium,No
+69,Linked List,Copy List with Random Pointer,Medium,No
+70,Linked List,Add Two Numbers,Medium,No
+71,Linked List,Find the Duplicate Number,Medium,No
+72,Linked List,LRU Cache,Medium,No
+73,Linked List,Merge K Sorted Lists,Hard,No
+74,Linked List,Reverse Nodes in k-Group,Hard,No
+75,Linked List,Linked List Cycle,Easy,No
+76,Linked List,Middle of the Linked List,Easy,No
+77,Linked List,Palindrome Linked List,Easy,No
+78,Linked List,Swap Nodes in Pairs,Medium,No
+79,Trees,Invert Binary Tree,Easy,No
+80,Trees,Maximum Depth of Binary Tree,Easy,No
+81,Trees,Diameter of Binary Tree,Easy,No
+82,Trees,Balanced Binary Tree,Easy,No
+83,Trees,Same Tree,Easy,No
+84,Trees,Subtree of Another Tree,Easy,No
+85,Trees,Lowest Common Ancestor of a BST,Medium,No
+86,Trees,Binary Tree Level Order Traversal,Medium,No
+87,Trees,Binary Tree Right Side View,Medium,No
+88,Trees,Count Good Nodes in Binary Tree,Medium,No
+89,Trees,Validate Binary Search Tree,Medium,No
+90,Trees,Kth Smallest Element in a BST,Medium,No
+91,Trees,Construct Binary Tree from Preorder and Inorder Traversal,Medium,No
+92,Trees,Binary Tree Maximum Path Sum,Hard,No
+93,Trees,Serialize and Deserialize Binary Tree,Hard,No
+94,Trees,Symmetric Tree,Easy,No
+95,Trees,Path Sum,Easy,No
+96,Tries,Implement Trie (Prefix Tree),Medium,No
+97,Tries,Design Add and Search Words Data Structure,Medium,No
+98,Tries,Word Search II,Hard,No
+99,Tries,Replace Words,Medium,No
+100,Tries,Map Sum Pairs,Medium,No
+101,Tries,Maximum XOR of Two Numbers in an Array,Medium,No
+102,Tries,Longest Word in Dictionary,Medium,No
+103,Tries,Search Suggestions System,Medium,No
+104,Tries,Design Search Autocomplete System,Hard,No
+105,Tries,Palindrome Pairs,Hard,No
+106,Heap / Priority Queue,Kth Largest Element in a Stream,Easy,No
+107,Heap / Priority Queue,Last Stone Weight,Easy,No
+108,Heap / Priority Queue,K Closest Points to Origin,Medium,No
+109,Heap / Priority Queue,Kth Largest Element in an Array,Medium,No
+110,Heap / Priority Queue,Task Scheduler,Medium,No
+111,Heap / Priority Queue,Design Twitter,Medium,No
+112,Heap / Priority Queue,Find Median from Data Stream,Hard,No
+113,Heap / Priority Queue,Top K Frequent Words,Medium,No
+114,Heap / Priority Queue,Ugly Number II,Medium,No
+115,Heap / Priority Queue,Minimum Cost to Connect Sticks,Medium,No
+116,Heap / Priority Queue,Furthest Building You Can Reach,Medium,No
+117,Heap / Priority Queue,Reorganize String,Medium,No
+118,Heap / Priority Queue,IPO,Hard,No
+119,Backtracking,Subsets,Medium,No
+120,Backtracking,Combination Sum,Medium,No
+121,Backtracking,Combination Sum II,Medium,No
+122,Backtracking,Permutations,Medium,No
+123,Backtracking,Subsets II,Medium,No
+124,Backtracking,Word Search,Medium,No
+125,Backtracking,Palindrome Partitioning,Medium,No
+126,Backtracking,Letter Combinations of a Phone Number,Medium,No
+127,Backtracking,N-Queens,Hard,No
+128,Backtracking,Sudoku Solver,Hard,No
+129,Backtracking,Restore IP Addresses,Medium,No
+130,Backtracking,Combination Sum III,Medium,No
+131,Backtracking,Permutations II,Medium,No
+132,Graphs,Number of Islands,Medium,No
+133,Graphs,Clone Graph,Medium,No
+134,Graphs,Max Area of Island,Medium,No
+135,Graphs,Pacific Atlantic Water Flow,Medium,No
+136,Graphs,Surrounded Regions,Medium,No
+137,Graphs,Rotting Oranges,Medium,No
+138,Graphs,Course Schedule,Medium,No
+139,Graphs,Course Schedule II,Medium,No
+140,Graphs,Redundant Connection,Medium,No
+141,Graphs,Word Ladder,Hard,No
+142,Graphs,Cheapest Flights Within K Stops,Medium,No
+143,Graphs,Network Delay Time,Medium,No
+144,Graphs,Is Graph Bipartite?,Medium,No
+145,Graphs,Find Eventual Safe States,Medium,No
+146,Graphs,All Paths From Source to Target,Medium,No
+147,Dynamic Programming,Climbing Stairs,Easy,No
+148,Dynamic Programming,Min Cost Climbing Stairs,Easy,No
+149,Dynamic Programming,House Robber,Medium,No
+150,Dynamic Programming,House Robber II,Medium,No
+151,Dynamic Programming,Longest Palindromic Substring,Medium,No
+152,Dynamic Programming,Palindromic Substrings,Medium,No
+153,Dynamic Programming,Decode Ways,Medium,No
+154,Dynamic Programming,Coin Change,Medium,No
+155,Dynamic Programming,Maximum Product Subarray,Medium,No
+156,Dynamic Programming,Word Break,Medium,No
+157,Dynamic Programming,Longest Increasing Subsequence,Medium,No
+158,Dynamic Programming,Partition Equal Subset Sum,Medium,No
+159,Dynamic Programming,Unique Paths,Medium,No
+160,Dynamic Programming,Minimum Path Sum,Medium,No
+161,Dynamic Programming,Jump Game,Medium,No
+162,Dynamic Programming,Jump Game II,Medium,No
+163,Dynamic Programming,Best Time to Buy and Sell Stock with Cooldown,Medium,No
+164,Dynamic Programming,Longest Common Subsequence,Medium,No
+165,Dynamic Programming,Edit Distance,Hard,No
+166,Dynamic Programming,Regular Expression Matching,Hard,No
+167,Dynamic Programming,Burst Balloons,Hard,No
+168,Greedy,Maximum Subarray,Medium,No
+169,Greedy,Gas Station,Medium,No
+170,Greedy,Hand of Straights,Medium,No
+171,Greedy,Merge Triplets to Form Target Triplet,Medium,No
+172,Greedy,Partition Labels,Medium,No
+173,Greedy,Valid Parenthesis String,Medium,No
+174,Greedy,Lemonade Change,Easy,No
+175,Greedy,Assign Cookies,Easy,No
+176,Greedy,Minimum Number of Arrows to Burst Balloons,Medium,No
+177,Greedy,Non-overlapping Intervals,Medium,No
+178,Greedy,Queue Reconstruction by Height,Medium,No
+179,Greedy,Candy,Hard,No
+180,Intervals,Insert Interval,Medium,No
+181,Intervals,Merge Intervals,Medium,No
+182,Intervals,Non-overlapping Intervals,Medium,No
+183,Intervals,Summary Ranges,Easy,No
+184,Intervals,Minimum Interval to Include Each Query,Hard,No
+185,Intervals,Interval List Intersections,Medium,No
+186,Intervals,Remove Covered Intervals,Medium,No
+187,Intervals,Data Stream as Disjoint Intervals,Hard,No
+188,Intervals,Count of Range Sum,Hard,No
+189,Intervals,My Calendar I,Medium,No
+190,Bit Manipulation,Single Number,Easy,No
+191,Bit Manipulation,Number of 1 Bits,Easy,No
+192,Bit Manipulation,Counting Bits,Easy,No
+193,Bit Manipulation,Reverse Bits,Easy,No
+194,Bit Manipulation,Missing Number,Easy,No
+195,Bit Manipulation,Sum of Two Integers,Medium,No
+196,Bit Manipulation,Reverse Integer,Medium,No
+197,Bit Manipulation,Power of Two,Easy,No
+198,Bit Manipulation,Bitwise AND of Numbers Range,Medium,No
+199,Math & Geometry,Rotate Image,Medium,No
+200,Math & Geometry,Spiral Matrix,Medium,No
