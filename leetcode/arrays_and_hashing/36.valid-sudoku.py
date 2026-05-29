@@ -35,13 +35,13 @@ class Solution(object):
                       (6, 0), (6, 3), (6, 6)]
         for n, m in box_values:
             x = set()
-            for row in (n, n + 3):
-                for col in (m, m + 3):
-                    num = box_values[row][col]
-                    if num in x:
+            for row in range(n, n+3):
+                for col in range(m, m+3):
+                    item = board[row][col]
+                    if item in x:
                         return False
-                    elif num != '.':
-                        x.add(num)
+                    elif item != '.':
+                        x.add(item)
         return True
 
 # @lc code=end
