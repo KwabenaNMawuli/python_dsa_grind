@@ -3,9 +3,9 @@ Number,Topic,Question,Difficulty,Solved
 2,Arrays & Hashing,Contains Duplicate,Easy,No
 3,Arrays & Hashing,Valid Anagram,Easy,No
 4,Arrays & Hashing,Group Anagrams,Medium,No
-5,Arrays & Hashing,Top K Frequent Elements,Medium,No
+5,Arrays & Hashing,Top K Frequent Elements,Medium,Yes
 6,Arrays & Hashing,Product of Array Except Self,Medium,No
-7,Arrays & Hashing,Valid Sudoku,Medium,No
+7,Arrays & Hashing,Valid Sudoku,Medium,Yes
 8,Arrays & Hashing,Longest Consecutive Sequence,Medium,No
 9,Arrays & Hashing,Subarray Sum Equals K,Medium,No
 10,Arrays & Hashing,Find All Duplicates in an Array,Medium,No
@@ -18,7 +18,7 @@ Number,Topic,Question,Difficulty,Solved
 17,Two Pointers,Container With Most Water,Medium,No
 18,Two Pointers,Trapping Rain Water,Hard,No
 19,Two Pointers,Remove Duplicates from Sorted Array,Easy,No
-20,Two Pointers,Move Zeroes,Easy,No
+20,Two Pointers,Move Zeroes,Easy,Yes
 21,Two Pointers,Squares of a Sorted Array,Easy,No
 22,Two Pointers,4Sum,Medium,No
 23,Two Pointers,3Sum Closest,Medium,No
